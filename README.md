@@ -53,13 +53,13 @@ By integrating **Power BI with MySQL**, this dashboard simulates a real enterpri
 ## 📷 Screenshots
 
 ### 🔹 Main Sales Dashboard
-![Main Dashboard](screenshots/main-page.png)
+![Main Dashboard](main-page.png)
 
 ### 🔹 Region Drill-through
-![Region Page](screenshots/region-detail.png)
+![Region Page](region-detail.png)
 
 ### 🔹 KPIs & Filters
-![KPI Filters](screenshots/kpi-section.png)
+![KPI Filters](kpi-section.png)
 
 ---
 
