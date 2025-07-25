@@ -77,4 +77,4 @@ By integrating **Power BI with MySQL**, this dashboard simulates a real enterpri
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Sales-Dashboard-Project.git
+git clone https://github.com/shraddhalahare1723/Sales-Dashboard-Project.git
