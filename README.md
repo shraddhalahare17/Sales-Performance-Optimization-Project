@@ -65,6 +65,18 @@ By integrating **Power BI with MySQL**, this dashboard simulates a real enterpri
 | SQL              | Data cleaning and aggregation logic  |
 
 ---
+## 🗄️ SQL Data Preparation
+
+The sales dataset was stored and cleaned using **MySQL** before importing into Power BI. The following steps were performed using SQL queries:
+
+- 📌 Created `sales_data`, `products`, and `store_info` tables
+- 🧹 Removed NULLs and duplicates
+- 📊 Performed revenue calculations
+- 🗃️ Created lookup relationships between stores and products
+
+You can view the full SQL script in the [`sql`](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project/blob/main/sql) folder.
+
+> 💡 Tip: If you're exploring or want to replicate this project, you can run the queries to generate the same cleaned dataset structure in your MySQL database.
 
 ## 📷 Screenshots
 
