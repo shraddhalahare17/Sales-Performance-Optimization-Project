@@ -1,3 +1,19 @@
+## 👤 Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](http://linkedin.com/in/shraddha-lahare-078518375)
+[![GitHub Followers](https://img.shields.io/github/followers/shraddhalahare17?label=Followers&style=social)](https://github.com/shraddhalahare17)
+[![GitHub Stars](https://img.shields.io/github/stars/shraddhalahare17/Sales-Performance-Optimization-Project?style=social)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shraddhalahare17/Sales-Performance-Optimization-Project?style=social)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project/network)
+[![GitHub Watchers](https://img.shields.io/github/watchers/shraddhalahare17/Sales-Performance-Optimization-Project?label=Watchers&style=social)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project/watchers)
+
+[![Repo Size](https://img.shields.io/github/repo-size/shraddhalahare17/Sales-Performance-Optimization-Project)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project)
+[![Top Language](https://img.shields.io/github/languages/top/shraddhalahare17/Sales-Performance-Optimization-Project)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project)
+[![Language Count](https://img.shields.io/github/languages/count/shraddhalahare17/Sales-Performance-Optimization-Project)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project)
+
+[![Issues](https://img.shields.io/github/issues/shraddhalahare17/Sales-Performance-Optimization-Project)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project/issues)
+[![PRs](https://img.shields.io/github/issues-pr/shraddhalahare17/Sales-Performance-Optimization-Project)](https://github.com/shraddhalahare17/Sales-Performance-Optimization-Project/pulls)
+[![HitCount](http://hits.dwyl.com/shraddhalahare17/Sales-Performance-Optimization-Project.svg)](http://hits.dwyl.com/shraddhalahare17/Sales-Performance-Optimization-Project)
+
 # 📊 Sales Performance Analysis Dashboard (Power BI)
 
 This interactive dashboard analyzes over **1 million rows** of sales data sourced from a **MySQL database**. The goal of this project is to provide actionable insights into sales performance, regional performance, and product-level trends. The dashboard is fully dynamic with drill-throughs, KPIs, and custom visuals for business decision-making.
